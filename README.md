@@ -1,5 +1,6 @@
 # Links para o p5 das buscas:
 - O código é o mesmo em todas, a única diferença é a função de busca que está sendo chamada. A quesito de avaliação, pode escolher qualquer um e ver tudo de uma vez.
+- Lembrando que o código está deployado. Link na descrição do repositório.
 
 - [A*](https://editor.p5js.org/ArthurBM/sketches/R8K-hns9q)
 - [Gulosa](https://editor.p5js.org/ArthurBM/sketches/OWltqgKA_)
